@@ -11,6 +11,12 @@ git add aaa.py
 git commit -a -m "messag"
 git push
 
+
+git add aaa.py
+git commit -a -m "messag"
+git push
+
+
 Now we define a couple functions that will allow us to visualize the network.
 The first gets the activations at a given layer for a given input image.
 The second plots those activations in a grid.
